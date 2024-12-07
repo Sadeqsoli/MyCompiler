@@ -1,0 +1,17 @@
+<contact>
+    <name>John Doe</name>
+    <phone>123456789</phone>
+    <email>john.doe@example.com</email>
+    <address>
+        <street>123 Main St</street>
+        <city>Springfield</city>
+        <state>IL</state>
+        <zip>62704</zip>
+    </address>
+    <socialMedia>
+        <socialMediaAccount>
+            <platform>Twitter</platform>
+            <profileLink>https://twitter.com/johndoe</profileLink>
+        </socialMediaAccount>
+    </socialMedia>
+</contact>

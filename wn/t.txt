@@ -1,0 +1,28 @@
+{
+  "id": 42,
+  "name": "Alice Johnson",
+  "email": "alice.johnson@example.com",
+  "isActive": true,
+  "balance": 1532.75,
+  "age": 29,
+  "address": {
+    "street": "123 Maple Street",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "62701"
+  },
+  "registered": "2023-05-15T10:30:00Z",
+  "tags": ["developer", "tester", "user"],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Bob Smith"
+    },
+    {
+      "id": 2,
+      "name": "Carol White"
+    }
+  ],
+  "greeting": "Hello, Alice Johnson! You have 5 unread messages.",
+  "favoriteFruit": "apple"
+}
