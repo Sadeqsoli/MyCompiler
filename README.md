@@ -24,12 +24,12 @@ Each project may have different requirements and dependencies. Follow these step
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/all-projects.git
-   cd all-projects
+   git clone https://github.com/sadeqsoli/MyCompiler.git
+   cd MyCompiler
    ```
 2. Navigate to the project directory:
    ```sh
-   cd project_name
+   cd MyCompiler
    ```
 3. Run the respective program based on the project's instructions.
 
